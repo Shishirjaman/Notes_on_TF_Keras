@@ -3,7 +3,7 @@
 This repository is a structured collection of notebooks and scripts documenting my journey through Deep Learning using **TensorFlow** and **Keras**. The notes follow a progressive path, starting from foundational neural networks and moving toward CNN and sequential (RNN) data analysis.
 
 ### 📚 Curriculum Overview
-The following list tracks the step by step implementation of various deep learning components:
+The following list tracks the step by step implementation of various deep learning components(follow the serial to understand all):
 
 1. [TF_Keras_Simple_ANN_MNIST.ipynb](https://github.com/Shishirjaman/Notes_on_TF_Keras/blob/main/TF_Keras_Simple_ANN_MNIST.ipynb)
 2. [TF_Keras_ANN_basic_churn_text_data.ipynb](https://github.com/Shishirjaman/Notes_on_TF_Keras/blob/main/TF_Keras_ANN_basic_churn_text_data.ipynb)
@@ -17,7 +17,7 @@ The following list tracks the step by step implementation of various deep learni
 10. [TF_Keras_Reg_Drop_tf_data_Batch_Norm_CNN.ipynb](https://github.com/Shishirjaman/Notes_on_TF_Keras/blob/main/TF_Keras_Reg_Drop_tf_data_Batch_Norm_CNN.ipynb)
 11. [TF_Keras_Keras_tuner_CNN_dropout_reg_CIFAR10.ipynb](https://github.com/Shishirjaman/Notes_on_TF_Keras/blob/main/TF_Keras_Keras_tuner_CNN_dropout_reg_CIFAR10.ipynb)
 12. [TF_Keras_CIFAR10_CNN_pretrained_model_ResNetV2_MobileNet_EfficientNetV2.ipynb](https://github.com/Shishirjaman/Notes_on_TF_Keras/blob/main/TF_Keras_CIFAR10_CNN_pretrained_model_ResNetV2_MobileNet_EfficientNetV2.ipynb)
-13. [TF_Keras_Simple_RNN_tf_data_L2_Dropout_padding_truncating_embedding.ipynb]()
+13. [TF_Keras_Simple_RNN_tf_data_L2_Dropout_padding_truncating_embedding.ipynb](https://github.com/Shishirjaman/Notes_on_TF_Keras/blob/main/TF_Keras_Simple_RNN_tf_data_L2_Dropout_padding_truncating_embedding.ipynb)
 14. [TF_Keras_Apple_stock_LSTM_StackedLSTM_Dropout_L2_tf_data.ipynb](https://github.com/Shishirjaman/Notes_on_TF_Keras/blob/main/TF_Keras_Apple_stock_LSTM_StackedLSTM_Dropout_L2_tf_data.ipynb)
 15. [TF_Keras_Apple_stock_GRU_StackedGRU_Dropout_L2_tf_data.ipynb](https://github.com/Shishirjaman/Notes_on_TF_Keras/blob/main/TF_Keras_Apple_stock_GRU_StackedGRU_Dropout_L2_tf_data.ipynb)
 
