@@ -29,4 +29,4 @@ The following list tracks the step by step implementation of various deep learni
 * **Libraries:** NumPy, Pandas, Matplotlib
 
 
-> **Created with ❤️ by Shishir Zaman**
+> **Created by Shishir Zaman**
